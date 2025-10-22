@@ -123,13 +123,6 @@ This project is built using Flutter. Below are the essential details and configu
 💻 Android Studio
 
 * Version: 2023.3
-
-* Path: D:\hp\Users\AppData\Local\Android\Android Studio
-
-* Flutter Plugin: Install here
-
-* Dart Plugin: Install here
-
 * Java Runtime: OpenJDK 17 (17.0.10+0--11572160)
 
 
