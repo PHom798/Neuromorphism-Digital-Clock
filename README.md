@@ -143,4 +143,3 @@ For questions, suggestions, or collaborations:
 ---
 
 > 🌟 *If this project inspired you or helped your Flutter learning journey, give it a star and share it with others!*
->>>>>>> 4e6546b2b5f86895a96446b54d05eaa6c6ed22c4
