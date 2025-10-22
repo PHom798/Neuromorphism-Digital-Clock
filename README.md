@@ -16,6 +16,15 @@ This project serves as a **hands-on learning resource** for developers and desig
 
 ---
 
+## 🎬 Intro
+
+<div align="center">
+  
+  ![Digital Clock](screenshots/imageneuro.png)
+    
+</div>
+
+
 ## ✨ Features
 
 * 🕒 **Real-Time Clock Display** — Continuously updating digital time display.
@@ -31,9 +40,10 @@ This project serves as a **hands-on learning resource** for developers and desig
 <div align="left">
   <table>
     <tr>
-      <td><img src="assets/screenshots/clock1.jpg" alt="Neuromorphic Clock Example 1" width="250"/></td>
-      <td><img src="assets/screenshots/clock2.jpg" alt="Neuromorphic Clock Example 2" width="250"/></td>
-      <td><img src="assets/screenshots/clock3.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
+      <td><img src="screenshots/image1.jpg" alt="Neuromorphic Clock Example 1" width="250"/></td>
+      <td><img src="screenshots/image4.jpg" alt="Neuromorphic Clock Example 2" width="250"/></td>
+      <td><img src="screenshots/image3.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
+      <td><img src="screenshots/image2.jpg" alt="Neuromorphic Clock Example 3" width="250"/></td>
     </tr>
   </table>
 </div>
@@ -43,7 +53,7 @@ This project serves as a **hands-on learning resource** for developers and desig
 ## 🎥 Demo Video
 
 Watch the **Neuromorphism Digital Clock** in action on **X (formerly Twitter):**
-👉 [Watch the Demo Here](https://x.com/your_x_post_link)
+👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1949116612566552703)
 
 ---
 
