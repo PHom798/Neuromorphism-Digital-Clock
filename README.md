@@ -20,7 +20,7 @@ This project serves as a **hands-on learning resource** for developers and desig
 
 <div align="center">
   
-  ![Digital Clock](screenshots/imageneuro.png)
+  ![Digital Clock](screenshots/imageneuro.jpeg)
     
 </div>
 
