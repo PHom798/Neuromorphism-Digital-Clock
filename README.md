@@ -16,11 +16,11 @@ This project serves as a **hands-on learning resource** for developers and desig
 
 ---
 
-## 🎬 Intro
+## 🎬 Preview
 
 <div align="center">
   
-  ![Digital Clock](screenshots/imageneuro.jpeg)
+  ![Digital Clock](screenshots/iphone-tilted-zoom-out.png)
     
 </div>
 
